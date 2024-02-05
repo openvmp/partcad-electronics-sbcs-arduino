@@ -1,3 +1,5 @@
+desc: Arduino
+url: https://arduino.cc/
 parts:
   mega2560:
     type: step
