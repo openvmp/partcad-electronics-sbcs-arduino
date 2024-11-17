@@ -1,6 +1,8 @@
 name: /pub/electronics/sbcs/arduino
 desc: Arduino
 url: https://arduino.cc/
+cover:
+  part: mega2560
 
 import:
   pub:
